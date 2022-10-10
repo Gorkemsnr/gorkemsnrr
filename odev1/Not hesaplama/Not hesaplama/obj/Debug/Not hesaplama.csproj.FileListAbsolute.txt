@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\bin\Debug\Not hesaplama.exe.config
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\bin\Debug\Not hesaplama.exe
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\bin\Debug\Not hesaplama.pdb
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not_hesaplama.Form1.resources
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not_hesaplama.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.exe
+C:\Users\LENOVO\Desktop\odev1\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.pdb
